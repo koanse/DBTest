@@ -1,0 +1,9 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\DBTest\DBTest\bin\Debug\Database1.sdf
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\DBTest\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\DBTest\DBTest\bin\Debug\DBTest.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\DBTest\DBTest\bin\Debug\DBTest.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\DBTest\DBTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\DBTest\DBTest\obj\Debug\DBTest.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\DBTest\DBTest\obj\Debug\DBTest.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\DBTest\DBTest\obj\Debug\DBTest.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\DBTest\DBTest\obj\Debug\DBTest.pdb
